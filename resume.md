@@ -4,11 +4,6 @@ KIM Hyewon
 - JEJU national uni. Computer Engineering student
 <br><br>자기소개서 페이지 : http://kimhyewon0.github.io/
 
-##CONTECT
-
-[![Alt text](/image/google_plus.png)](mailto:coope0@gmail.com)
-[![Alt text](/image/facebook.png)](http://www.facebook.com/hyewonney)
-[![Alt text](/image/github.png)](http://github.com/kimhyewon0/)
 
 
 ##ABOUT ME
@@ -23,15 +18,10 @@ KIM Hyewon
 * C, C++
 * PHP, HTML
 * JAVA
-* 워드프로세서 2급
 * TOEIC
-* 한자급수 4급
-* 운전면허 2종
 
 
 ##EDUCATION
-* 2008. 3. ~ 2011. 2.<br>
-    제주서중학교<br>
 * 2011. 3. ~ 2014. 2.<br>
     신성여자고등학교<br>
 * 2014. 3. ~ ing<br>
